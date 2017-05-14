@@ -6,6 +6,10 @@ An ultra simple wrapper for Python MySQLdb with very basic functionality
 - License: GPL v2
 
 ## Installation
+Install gcc if not exist
+sudo apt-get install build-essential 
+sudo apt-get install libmysqlclient-dev
+
 With pip or easy_install
 
 ```pip install simplemysql``` or ```easy_install simplemysql```
